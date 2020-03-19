@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\User3376\\Documents\\code\\New folder\\python-apps\\.venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\User3376\\Documents\\code\\New folder\\python-apps\\.venv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
